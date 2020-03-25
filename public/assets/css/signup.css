@@ -1,0 +1,84 @@
+body {
+   
+	background-image: url(../images/comics-news.webp);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0px;
+    color: darkred;
+  }
+}
+
+.btn {
+	background-color:lightblue;	
+}
+
+span {
+    color: #f2f7f7; 
+}
+
+
+.checkboxes {
+    position: relative;
+    text-align: left;
+    margin-left: auto;
+
+}
+
+.btn:hover {
+	background-color: rgb(28, 16, 100);
+}
+
+
+.form-1 {
+    background: rgba(65, 71, 73, 0.75);   
+    color: #f2f7f7; 
+    text-align: center;
+    position: relative;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 55%;
+}
+
+.form-2 {
+    background: rgba(65, 71, 73, 0.75);   
+    color: #f2f7f7; 
+    text-align: center;
+    position: relative;
+    border-radius: 10px; 
+    padding: 20px;
+    margin: 0 auto;
+    width: 45%;
+}
+
+.category-selector {
+    margin: 0 auto;
+}
+
+.info-inner {
+    padding: 30px;  
+    margin: 0 auto;
+}
+
+.welcome-text {
+    padding: 30px;
+}
+
+.checkboxes {
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+justify-content: center;
+color: darkred;
+}
+
+.btn {
+    background-color: darkblue;
+    margin: 5px;
+}
+
+.btn:hover {
+   background-color: goldenrod;
+}
