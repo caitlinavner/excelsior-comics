@@ -1,0 +1,46 @@
+body {
+	overflow: hidden;
+}
+
+.image-right {
+	position: relative;
+	height: 100vh;
+	background-image: url(../images/collectible-comics.jfif);
+	background-size: fit-content;
+	color: #f2f7f7;
+}
+
+.text {
+	margin: auto;
+	margin-top: 20%;
+	background: rgba(56, 91, 104, 0.75);
+	width: 50vw;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.login-form 	{
+	margin-top: 55%;	
+}
+.form-group {
+	padding: 15px;
+}
+
+#login-div {
+	margin-top: 20%;
+	width: 50%;
+	background-color: #20063b; 
+}
+	
+#login-left {
+	background-color: darkred;
+	height: 100vh;
+}
+
+.btn {
+	background-color:indigo;	
+}
+
+.btn:hover {
+	background-color: goldenrod;
+}
